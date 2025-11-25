@@ -30,3 +30,15 @@ Dataset contained no missing values. Categorical features were not used in the m
 
 ### **4. Modeling**
 A linear regression model was trained using:
+
+### **5. Evaluation**
+- **R² Score:** 0.9880  
+- **MSE:** 6,864,443.65  
+Model shows excellent predictive performance.
+
+### **6. Deployment / Communication**
+A clear blog post summarizing findings was published.
+
+## 📈 Prediction Example
+For a person with **4.5 years** of experience:
+
