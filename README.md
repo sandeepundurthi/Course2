@@ -1,16 +1,16 @@
 # Salary Prediction Using Linear Regression
 
-## 📌 Project Overview
+##  Project Overview
 This project explores how years of experience influence salary using a simple machine learning model. The goal is to follow the CRISP-DM process to perform exploratory data analysis (EDA), clean the data, train a model, evaluate it, and communicate insights through a blog post.
 
-## 📊 Dataset
+##  Dataset
 The dataset contains 10 rows with the following columns:
 - `years_experience` — numeric
 - `degree` — categorical
 - `bootcamp` — categorical
 - `salary` — numeric (target variable)
 
-## 🧪 Tools & Libraries
+##  Tools & Libraries
 - Python  
 - pandas  
 - numpy  
@@ -18,7 +18,7 @@ The dataset contains 10 rows with the following columns:
 - matplotlib  
 - seaborn  
 
-## 🔍 CRISP-DM Summary
+## CRISP-DM Summary
 ### **1. Business Understanding**
 Predict salary using experience-based data.
 
@@ -39,6 +39,6 @@ Model shows excellent predictive performance.
 ### **6. Deployment / Communication**
 A clear blog post summarizing findings was published.
 
-## 📈 Prediction Example
+##  Prediction Example
 For a person with **4.5 years** of experience:
 
